@@ -1,0 +1,53 @@
+{
+	"configs" : [
+		{
+			"remarks" : "",
+			"server" : "47.74.181.193",
+			"server_port" : 3932,
+			"server_udp_port" : 0,
+			"password" : "3932",
+			"method" : "aes-256-cfb",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "",
+			"udp_over_tcp" : false,
+			"protocol" : "origin",
+			"enable" : true,
+			"id" : "B2CF3CE3C49287B3AD1BC43DF504CA59"
+		}
+	],
+	"index" : 0,
+	"random" : false,
+	"sysProxyMode" : 2,
+	"shareOverLan" : false,
+	"bypassWhiteList" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "7yrN_XcPwXjILtq_IurL",
+	"dns_server" : null,
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 0,
+	"TTL" : 0,
+	"connect_timeout" : 5,
+	"proxyRuleMode" : 0,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}

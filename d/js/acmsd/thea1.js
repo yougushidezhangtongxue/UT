@@ -1,0 +1,1 @@
+document.write("请在Chrome、Firefox等现代浏览器浏览本站。欢迎光临我的网站！")
